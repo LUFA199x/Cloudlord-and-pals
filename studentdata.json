@@ -878,6 +878,59 @@
         }
       }
 
+      {
+        "id": 24,
+        "stuId": 2883,
+        "name": "Oluwasola Alufa",
+        "track": "Cloud Engineering",
+        "circle": 366,
+        "img":"https://res.cloudinary.com/dem6fbv1z/image/upload/v1660321159/T03898UQN23-U039TQPCXGB-edfd13a44d8f-512_yyexpo.jpg",
+    
+        "description":{
+                    "intro":"",
+                    "introdetails":""
+                },
+    
+        "socialmedia":{
+                    "linkedin":"https://https://www.linkedin.com/in/solaalufa/",
+                    "github":"https://github.com/LUFA199x",
+                    "twitter":"https://twitter.com/solaoluwalufa",
+                    "portfolio":"",
+                    "slackHandle":"SolaAlufa"
+                 },
+    
+        "experience":{
+                    "first":"Intern User Experience Designer @Traindemy .Inc",
+                    "second":"Junior Software Developer @SmeBuilder",
+                    "third":""
+                 },
+    
+        "project":{
+                    "first":{
+                        "projectname":"",
+                        "projectdescription":"",
+                        "projectlink":""
+                    },
+                    "second":{
+                        "projectname":"",
+                        "projectdescription":"",
+                        "projectlink":""
+                    },
+    
+                    "third":{
+    
+                        "projectname":"",
+                        "projectdescription":"",
+                        "projectlink":""
+                    }
+                 }
+            },
+    
+    
+    
+    
+    
+
         
 
     ]
